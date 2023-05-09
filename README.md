@@ -1,2 +1,3 @@
-# handwritten_lectures
+# handwritten lectures
+
 My handwritten lecture notes.
